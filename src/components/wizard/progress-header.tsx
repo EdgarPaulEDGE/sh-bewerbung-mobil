@@ -21,7 +21,8 @@ export function ProgressHeader({ step }: { step: number }) {
     <header className="sticky top-0 z-20 border-b border-border/70 bg-background/90 backdrop-blur-md">
       <div className="mx-auto flex w-full max-w-2xl items-center justify-between gap-4 px-5 py-3">
         <Image
-          src="/sh-logo.png"
+          // basePath muss bei unoptimized-Bildern manuell davor (Next.js-Eigenheit)
+          src={`${process.env.NEXT_PUBLIC_BASE_PATH ?? ""}/sh-logo.png`}
           alt="Schleswig-Holstein. Der echte Norden"
           width={132}
           height={44}
