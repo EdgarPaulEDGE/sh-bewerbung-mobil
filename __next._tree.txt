@@ -1,0 +1,6 @@
+:HL["/sh-bewerbung-mobil/_next/static/chunks/19fysi8lil4cu.css","style"]
+:HL["/sh-bewerbung-mobil/_next/static/media/AvenirNext_Bold-s.p.2hd2vh29pk3ux.ttf","font",{"crossOrigin":"","type":"font/ttf"}]
+:HL["/sh-bewerbung-mobil/_next/static/media/AvenirNext_DemiBold-s.p.2tii-hnvrgwko.ttf","font",{"crossOrigin":"","type":"font/ttf"}]
+:HL["/sh-bewerbung-mobil/_next/static/media/AvenirNext_Medium-s.p.1q_4-f63p9s9t.ttf","font",{"crossOrigin":"","type":"font/ttf"}]
+:HL["/sh-bewerbung-mobil/_next/static/media/AvenirNext_Regular-s.p.2q03fvz5bf_33.ttf","font",{"crossOrigin":"","type":"font/ttf"}]
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}},"staleTime":300,"buildId":"t5xGmQXK3xo7DvMn2kn85"}
