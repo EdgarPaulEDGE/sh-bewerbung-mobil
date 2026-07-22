@@ -62,6 +62,18 @@ Wiederaufnahme-Link per E-Mail.
 Der Datenschutzhinweis-Link, das Aktenzeichen und die Eingangsbestätigung
 sind simuliert.
 
+## Lizenz
+
+Der Quellcode dieses Repositorys steht unter der MIT-Lizenz (siehe LICENSE).
+Sie dürfen ihn frei einsehen, anpassen und als Grundlage weiterverwenden.
+
+Ausgenommen von dieser Lizenz sind Drittinhalte:
+
+- Die Schrift Avenir Next ist kommerziell lizenziert und nicht Teil dieser
+  Freigabe. Wer den Code weiterverwendet, benötigt eine eigene Schriftlizenz.
+- Das Logo und das Wappen des Landes Schleswig-Holstein sind geschützt und
+  liegen beim Land. Sie sind hier nur zur Veranschaulichung eingebunden.
+
 ---
 
 EDGE Digital · Prototyp zur Kampagne Nachwuchskräfte-Recruiting 2027
