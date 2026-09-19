@@ -7,7 +7,7 @@
     "build": "next build",
     "start": "next start",
     "lint": "eslint",
-    "deploy": "NEXT_PUBLIC_BASE_PATH=/sh-bewerbung-mobil next build && touch out/.nojekyll && gh-pages -d out -t"
+    "deploy": "next build && touch out/.nojekyll && gh-pages -d out -t"
   },
   "dependencies": {
     "@hookform/resolvers": "^5.4.0",
